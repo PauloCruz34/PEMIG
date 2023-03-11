@@ -1,2 +1,2 @@
 # PEMIG
- Programação e microinformática
+ Programação em microinformática
