@@ -16,14 +16,14 @@
     border: 0px solid red;
    
     background-image:        
-        url(img/fundo.png);}
+        url(../img/fundo.png);}
 
 #fundo2{
     padding: 0;
     margin: 0 auto;
     max-width: 50%;
     border: 0px solid red;
-    background-image:url(img/fundo2.png) ;
+    background-image:url(../img/fundo2.png) ;
 }
 
 .link{      
